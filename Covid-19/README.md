@@ -1,4 +1,4 @@
-# Insight
+# Insights :
 
 1. What are the total number of Confirmed cases in different nations?
 2. What are the total number of Recovered cases in different nations?
