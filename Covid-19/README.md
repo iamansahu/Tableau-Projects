@@ -8,3 +8,5 @@
 6. Find the Least Death rates
 7. Can we find the variation in COVID - 19 Cases around the World
 8. Can we forecast the sheet for future and reference
+
+<img src="https://github.com/iamansahu/Tableau-Projects/blob/main/Covid-19/Covid%20-19%20Dashboard.png"/>
